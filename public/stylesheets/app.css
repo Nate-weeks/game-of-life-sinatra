@@ -1,0 +1,15 @@
+/* CSS goes here */
+td {
+  border: 3px solid black;
+  margin:0;
+}
+
+table {
+  border-spacing: 1px;
+  margin-left: 24%;
+}
+
+.on {
+  background-color: orange;
+  border: 1px solid red;
+}
